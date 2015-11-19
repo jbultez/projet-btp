@@ -95,7 +95,35 @@ height: 500px;
   font-style: bold;
   padding-left: 2%;
 }
-
 .middle {
-  margin-top:auto;
+  background-color: white;
+  height: 200px;
+}
+.text-middle {
+  padding-left: 2%;
+  float: left;
+}
+.mid-button {
+  width: 175px;
+  height: 50px;
+  background-color: yellow;
+  float: right;
+  border-radius: 30px;
+  margin-right: 15%;
+  margin-top: 5%;
+}
+.text-button {
+  text-align: center;
+  color: white;
+}
+.service {
+  background-color: grey;
+  width: 100%;
+  height: 800px;
+}
+.photos {
+  width: 80%;
+  height: 600px;
+  background-color: white;
+  float: left;
 }
