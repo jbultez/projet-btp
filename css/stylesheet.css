@@ -51,8 +51,8 @@ ul li {
   color: yellow;
 }
 .acceuil {
-  width: 100%;
-  position: fixed;
+background-image: url('../img/acceuil.jpg');
+height: 500px;
 }
 .block {
   height: 300px;
