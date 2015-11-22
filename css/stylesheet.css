@@ -188,8 +188,29 @@ h3 {
   float: left;
   margin-left: 5%;
   margin-top: 5%;
-  width: 50%;
+  width: 40%;
 }
 .text-about {
-  width: 50%;
+  width: 44%;
+  float: left;
+  margin-top: 5%;
+  margin-left: 8%;
+}
+.casque {
+  margin-top: 70px;
+  width: 100px;
+}
+.rouleau,
+.perceuse {
+  margin-top: 40px;
+  width: 100px;
+}
+.text-img {
+  float: left;
+  width: 450px;
+  margin-left: 150px;
+  margin-top: -95px;
+}
+h4 {
+  margin-top: 0px;
 }
